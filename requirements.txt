@@ -1,4 +1,4 @@
-openpyx
-stremalit
+openpyxl
+streamlit
 pandas
 xlsxwriter
