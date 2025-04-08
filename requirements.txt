@@ -1,3 +1,4 @@
 openpyx
 stremalit
 pandas
+xlsxwriter
